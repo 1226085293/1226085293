@@ -1,6 +1,6 @@
 ## 个人介绍 (self introduction)
 
-游戏开发经验 5 年的程序员，大多数时间使用 CocosCreator 游戏引擎进行开发，同时喜欢技术分享
+游戏开发程序员，大多数时间使用 CocosCreator 游戏引擎进行开发，同时喜欢技术分享
 
 A programmer with 5 years of game development experience. I use the CocosCreator game engine for development most of the time. I also like to share technology.
 
