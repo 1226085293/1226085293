@@ -13,6 +13,13 @@ Cocos 游戏开发者
 - 插件编写
 - 网页开发
 
+## 🤝 使用过
+- 游戏引擎：Cocos, Unity
+- 语言：C++, C#, Typescript
+- 前端：Vue, React, Nuxt.js, Next.js
+- 工具：VSCode, VisualStudio, Jenkins
+- 库: OpenCV
+
 ## 🌟 兴趣与探索
 喜欢搜寻和尝试新的、对自己有帮助的技术工具，常逛 ProductHunt、HackerNews 等社区。
 
